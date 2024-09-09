@@ -1,0 +1,10 @@
+import 'core-js/stable/array';
+import 'core-js/stable/array/from';
+import 'core-js/stable/array/includes';
+import 'core-js/stable/array/map';
+import 'core-js/stable/array/reduce';
+import 'core-js/stable/array/slice';
+import 'core-js/stable/array/some';
+import 'core-js/stable/promise';
+import 'core-js/stable/symbol';
+import 'core-js/stable/symbol/iterator';
